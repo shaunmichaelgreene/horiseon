@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* header style */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -49,7 +50,9 @@ a {
 p {
     font-size: 16px;
 }
+/* End header style */
 
+/* hero style */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,7 +61,9 @@ p {
     background-size: cover;
     background-position: center;
 }
+/* End hero style */
 
+/* main content style */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -75,6 +80,26 @@ p {
     margin-left: 20px;
 }
 
+.search-engine-optimization, .online-reputation-management, .social-media-marketing {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', 'sans-serif';
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.content img {
+    max-height: 200px;
+}
+
+.content h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+/* end main content style */
+
+/* benefits sidebar style */
 .benefits {
     margin-right: 20px;
     padding: 50px;
@@ -91,34 +116,17 @@ p {
     color: #ffffff;
 }
 
-.benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
+.benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-lead img, .benefit-brand img, .benefit-cost img {
+.benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
-.search-engine-optimization, .online-reputation-management, .social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', 'sans-serif';
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
-    max-height: 200px;
-}
-
-.search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
+/* end benefits sidebar styling */
 
 .footer {
     padding: 30px;
