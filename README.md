@@ -11,5 +11,7 @@ Multiple HTML div element syntax errors corrected.
 Page tested with screen reader to ensure conformance to proper flow and accessibility best practices.
 
 Live deployment link: https://shaunmichaelgreene.github.io/horiseon/index.html
+
 Screenshot: [![horiseon-refactor-snapshot.png](https://i.postimg.cc/R0rpQJYq/horiseon-refactor-snapshot.png)](https://postimg.cc/RWRTvh4z)
+
 Alternate Screenshot: [!Horiseon-Refactor-Screenshot](./assets/horiseon%20refactor%20snapshot.png?raw=true "Horiseon Refactor Screenshot")
